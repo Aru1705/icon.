@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+header{
+    background-color: rgb(209, 205, 208);
+    padding: 35px;
+    margin-top: 4%;
+    width: 70%;
+    margin-left: 15%;
+    
+}
+.layout a{
+    color: rgb(224, 76, 76);
+    font-size: 25px;
+    margin-left: 13%;
+    border-radius: 4px;
+    background-color:rgb(250, 248, 246);
+    box-shadow: 0 0 9px;   
+}
+.layout a:hover{
+    color: aquamarine;
+    transition: .3s ease;
+}
